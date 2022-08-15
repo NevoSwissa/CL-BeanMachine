@@ -8,6 +8,7 @@ description "Bean Machine Job Made By NevoSwissa#0111 For CloudDevelopment"
 ui_page {'html/index.html'}
 
 client_scripts {
+    '@PolyZone/CircleZone.lua',
     '@PolyZone/client.lua',
     'client/client.lua',
     'config.lua',
